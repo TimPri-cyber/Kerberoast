@@ -41,5 +41,6 @@ Used impacket-GetUserSPNs
 -encountered "Clock skew too great", fixed by running rdate on the same like as impacket
 
 Hash successfully aquired from the DC, used echo to write to test.hash
-Used John The Ripper on the hashed file
+Used John The Ripper on the hashed file, decrypted the password
+Used password to gain access to the services account
 
